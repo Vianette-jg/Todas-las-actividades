@@ -1,0 +1,15 @@
+p{
+    display: inline;
+    background-color: rgb(149, 217, 185);
+    width: 20px;
+}
+a{
+    display: block;
+    background-color: rgb(149, 217, 185);
+    width: 40px;
+    text-decoration: none;
+}
+li{
+    display: inline-flex;
+    text-align: center;
+}
